@@ -7,7 +7,7 @@ import os
 from aiohttp.web import Request
 from server import PromptServer
 import folder_paths
-from utils import get_temp_flag, validate_filename, get_annotated_file, collect_images, success_resp, error_resp
+from .utils import get_temp_flag, validate_filename, get_annotated_file, collect_images, success_resp, error_resp
 
 routes = PromptServer.instance.routes
 
