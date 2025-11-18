@@ -1,4 +1,4 @@
-# ComfyUI 额外 API
+# ComfyUI Extra API
 
 为 ComfyUI 提供额外的 HTTP 接口，便于查询与管理输入/输出图片等资源。
 
